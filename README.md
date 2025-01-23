@@ -1,2 +1,2 @@
 # project1
-My first project :)
+Project for Web Design 1.
